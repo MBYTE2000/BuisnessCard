@@ -6,6 +6,7 @@ namespace BusinessCard.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
+        //302227cf3a4f8eaae00f6ffccfd70406
         private static readonly string[] Summaries = new[]
         {
         "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
